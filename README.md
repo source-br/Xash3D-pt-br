@@ -5,4 +5,4 @@ Este é uma tradução comunitária para o Half-Life do Xash3D, esse é uma trad
 Caso queira apoiar, de um feedback :)
 
 feito por:
-David,AG1 e Shadow Kaze
+David, AG1, Nickbilac e Shadow Kaze
